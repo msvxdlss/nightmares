@@ -11,7 +11,7 @@ Theme: https://t.me/ngtmrss
 
 <h2> Preview </h2>
 
-<h2> Строка состояния </h2>
+<h2> Строка состояния </h2> <br>
 ![head](https://github.com/msvxdlss/nightmares/assets/170455347/af27e77b-7834-4785-9544-f4db7582d6ae)
 
 <h2> Настройки трафика </h2>
